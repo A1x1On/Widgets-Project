@@ -15,5 +15,5 @@
 
 ```
 <weather-widget></weather-widget>
-<script src="http://{{ server_url }}/dist/weather-widget.js"></script>
+<script src="http://{{ any_server/any_localhost) }}/dist/weather-widget.js"></script>
 ```
